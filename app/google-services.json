@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084024168598",
+    "project_id": "haven-v1",
+    "storage_bucket": "haven-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084024168598:android:cf9ab3805f39baa4f0a2b7",
+        "android_client_info": {
+          "package_name": "com.example.securehaven_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084024168598-4fj6jf7ohftsdqqrjga9ghi1n0scuvvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEQ1u4tQXSc8204ocey8CB9uBodbqrTVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084024168598-4fj6jf7ohftsdqqrjga9ghi1n0scuvvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
